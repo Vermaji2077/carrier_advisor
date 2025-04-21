@@ -148,4 +148,4 @@ if prompt := st.chat_input("Type your message here..."):
         st.markdown(f'<div class="assistant-msg">{msg}</div>', unsafe_allow_html=True)
 
 # Footer
-st.markdown('<div class="footer">🔥 Powered by AI | Created with ❤️ for Shaping Brilliant Minds</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">🔥 Made by Nish | Created with ❤️ for Shaping Brilliant Minds</div>', unsafe_allow_html=True)
