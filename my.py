@@ -96,7 +96,7 @@ def generate(prompt, history):
         messages=[
             {
                 "role": "system",
-                "content": "You are a helpful career advisor for students. You will go step by step..."
+                "content": "You are a helpful career advisor also a motivational bot for students. You will go step by step..."
             },
             {
                 "role": "user",
